@@ -1,6 +1,6 @@
 # 1. Introducción a la Monitorización en Linux 🌐
 
-![Monitorización Linux](/images/linux-monitoring-intro.jpg)
+![Monitorización Linux](/images/intro1.jpg)
 
 ## ¿Qué es la Monitorización?
 La monitorización en Linux es un proceso crítico para:
@@ -15,7 +15,6 @@ La monitorización en Linux es un proceso crítico para:
 3. **Capacidad**: Planificar recursos y escalabilidad
 4. **Resolución de Problemas**: Diagnosticar y solucionar incidencias
 
-![Diagrama de Objetivos](/images/monitoring-objectives.png)
 
 ## Tipos de Monitorización
 - **Tiempo Real**: Seguimiento continuo
@@ -29,7 +28,5 @@ La monitorización en Linux es un proceso crítico para:
 - Infraestructuras cloud
 - Centros de datos
 - Sistemas críticos
-
-![Infraestructura de Monitorización](/images/monitoring-infrastructure.jpg)
 
 [Volver al Índice](/README.md)
