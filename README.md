@@ -1,6 +1,6 @@
 # 🖥️ Monitorización en Linux 📊
 
-![Linux Monitoring Banner](/images/linux-monitoring-banner.png)
+![Linux Monitoring Banner](/images/main.jpg)
 
 ## Índice Interactivo
 
