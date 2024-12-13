@@ -25,8 +25,14 @@ Diagrama visual de los conceptos de monitorización.
 - Conocimientos básicos de terminal
 - Permisos de administrador
 
-## 📝 Contribuciones
-¡Las contribuciones son bienvenidas! Por favor, lee nuestras guías de contribución.
+## 📝 Referencias
+
+**[Dev.to](https://dev.to/)**
+
+**[StackOverFlow](https://stackoverflow.com/questions/12271051/monitoring-the-instructions-of-a-running-program-in-ubuntu)**
+
+**[Reddit](https://www.reddit.com/r/selfhosted/comments/udbpl9/what_monitoring_tool_would_you_recommend_to/?rdt=40248)**
+
 
 ## 📜 Licencia
-Proyecto de código abierto bajo licencia MIT.
+Proyecto de código abierto bajo licencia GNU/Linux.
