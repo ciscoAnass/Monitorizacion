@@ -29,7 +29,6 @@ graph TD
     J --> O[Alertas]
 ```
 
-![Flujo de Monitorización](/images/monitoring-flow.jpg)
 
 ## Relaciones entre Herramientas
 
@@ -37,6 +36,5 @@ graph TD
 2. **Herramientas Avanzadas**: Análisis profundo
 3. **Integración**: Complemento entre sistemas
 
-![Integración de Herramientas](/images/monitoring-tools-integration.jpg)
 
 [Volver al Índice](/README.md)
