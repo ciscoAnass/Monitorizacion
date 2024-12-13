@@ -1,11 +1,8 @@
 # 3. Sistemas de Monitorización 📊
-
-![Sistemas de Monitorización](/images/monitoring-systems.png)
-
 ## Prometheus 🔥
 Sistema de monitorización de código abierto
 
-![Prometheus Logo](/images/prometheus-logo.png)
+![Prometheus Logo](https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2021/10/prometheus.png?fit=750%2C450&ssl=1)
 
 ### Características
 - Recolección de métricas en tiempo real
@@ -23,12 +20,10 @@ scrapes_configs:
       - targets: ['localhost:9100']
 ```
 
-![Prometheus Dashboard](/images/prometheus-dashboard.jpg)
-
 ## Grafana 📈
 Plataforma de visualización de métricas
 
-![Grafana Logo](/images/grafana-logo.png)
+![Grafana Logo](/images/main.jpg)
 
 ### Características
 - Dashboards personalizables
@@ -42,12 +37,9 @@ Plataforma de visualización de métricas
 - Tráfico de red
 - Rendimiento de disco
 
-![Grafana Dashboard](/images/grafana-dashboard.jpg)
 
 ## Nagios 🚨
 Monitorización de infraestructura
-
-![Nagios Logo](/images/nagios-logo.png)
 
 ### Características
 - Chequeo de servicios y hosts
@@ -55,6 +47,6 @@ Monitorización de infraestructura
 - Alertas por correo/SMS
 - Reporting detallado
 
-![Nagios Dashboard](/images/nagios-dashboard.jpg)
+![Nagios Dashboard](https://checkmk.com/application/files/9916/0456/2071/new_USX_blog.png)
 
 [Volver al Índice](/README.md)
