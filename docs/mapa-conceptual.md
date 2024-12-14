@@ -1,6 +1,5 @@
 # 4. Mapa Conceptual de Monitorización 🗺️
 
-![Mapa Conceptual](/images/monitoring-concept-map.png)
 
 ## Diagrama de Flujo
 
